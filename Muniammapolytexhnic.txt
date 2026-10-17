@@ -1,0 +1,452 @@
+கீழே 10 ஸ்னிப்பெட்டுகளும் முழுமையாகத் திருத்தப்பட்டுள்ளன. ஒவ்வொரு ஸ்னிப்பெட்டிலும் Character Identity Lock, Character Consistency, Negative Prompt, தமிழ் வசனங்கள், கேமரா இயக்கம், ஒலி மற்றும் காட்சி தொடர்ச்சி தனித்தனியாகச் சேர்க்கப்பட்டுள்ளன. ஒவ்வொரு prompt-ஐயும் தனியாக copy செய்து AI video generator-ல் பயன்படுத்தலாம்.
+
+### SNIPPET 1 — THE MADURAI MEETING (0:00–0:10)
+
+TITLE: THE MADURAI MEETING — TAMIL COMEDY ADVERTISEMENT
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, cinematic realism, natural Tamil lip-sync, golden morning sunlight, energetic comedy BGM.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: A bulky, authoritative 50-year-old South Indian Tamil man with broad shoulders, a thick, brave horseshoe moustache, expressive eyes and a confident face. He wears a pristine white cotton sattai and traditional white veshti. Preserve his exact facial structure, moustache, hairstyle, skin tone, body proportions, age and clothing throughout all scenes.
+
+BROKER: A very fat, round-faced 45-year-old South Indian Tamil marriage broker with a large belly, expressive eyebrows and a sweaty forehead. He wears a pitch-black checked shirt and traditional white veshti. Preserve his exact face, body shape, hairstyle, age and clothes throughout all scenes.
+
+SCENE AND ACTION:
+
+Begin with a cinematic wide shot of bustling Madurai streets. The magnificent Meenakshi Amman Temple gopurams are clearly visible in the golden morning background. People move naturally through the street.
+
+The fat broker waddles and runs frantically through the crowd, panting dramatically and wiping sweat from his forehead. He suddenly skids to a halt in front of the father.
+
+The father stands proudly with both hands on his hips, his horseshoe moustache prominent. The broker folds his hands respectfully.
+
+TAMIL DIALOGUE — EXACT WORDS:
+
+BROKER: “ஐயா, வணக்கம், வணக்கம்!”
+
+FATHER: “புரோக்கர்! என் பொண்ணுக்கு நல்ல மாப்பிள்ளை பார்க்கச் சொன்னேனே, என்ன ஆச்சு?”
+
+The broker nervously wipes his forehead and prepares to explain.
+
+CAMERA: Wide establishing shot of the temple, fast tracking shot following the broker, medium two-shot, then close-up of the father's authoritative expression.
+
+AUDIO: Energetic Tamil comedy BGM, street ambience, running footsteps, exaggerated skidding sound and natural Tamil voices. Dialogue must be clearly audible.
+
+CHARACTER CONSISTENCY RULES:
+Use the same reference images for the father and broker. Maintain exact facial identity, age, moustache, hairstyle, skin tone, body proportions and clothing. No character substitution. No visual discontinuity between shots.
+
+NEGATIVE PROMPT:
+No face morphing, no face swapping, no aging, no de-aging, no changing facial features, no changing body size, no changing skin tone, no changing moustache, no hairstyle changes, no costume changes, no duplicate characters, no extra limbs, no deformed hands, no distorted faces, no flickering, no unnatural running, no floating feet, no broken anatomy, no random text, no subtitles covering faces, no modern buildings replacing the temple, no incorrect Tamil traditional clothing, no sudden location changes, no inconsistent lighting, no blurry faces, no low resolution.
+
+FINAL FRAME CONTINUITY:
+End with the father looking sternly at the broker while the broker stands nervously in front of him. Use this composition as a reference for Snippet 2.
+
+### SNIPPET 2 — THE CRYING BLUE-SHIRT ENGINEER (0:10–0:20)
+
+TITLE: THE CRYING BLUE-SHIRT ENGINEER — MAGICAL TAMIL COMEDY
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, bright Madurai daylight, cinematic comedy, magical realism and accurate Tamil lip-sync.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: Same bulky 50-year-old Tamil father, thick horseshoe moustache, white sattai and white veshti. Identical face, age, moustache and body proportions to Snippet 1.
+
+BROKER: Same fat 45-year-old Tamil broker, round face, sweaty forehead, black checked shirt and white veshti. Identical appearance to Snippet 1.
+
+MINAKSHI: An adult 18-year-old South Indian Tamil woman with large expressive eyes, long dark hair, graceful features and a bright traditional silk half-saree. Preserve her exact face, hairstyle, skin tone, age and clothing throughout the entire story.
+
+BLUE-SHIRT ENGINEER: A young adult Tamil man wearing a blue shirt, appearing only inside a printed photograph. Maintain the same face, hairstyle and clothing within the photograph.
+
+SCENE AND ACTION:
+
+Continue from the previous scene. The broker stands in front of the father on a sunny Madurai street and dramatically spreads his hands while explaining the difficulties faced by an unemployed engineering graduate.
+
+BROKER DIALOGUE:
+“எங்கங்க? இப்போல்லாம் பசங்க அந்த ப்ளூ சர்ட் இன்ஜினியரிங் பையன் மாதிரி பெரிய பெரிய படிப்புல்லாம் படிக்கிறானுங்க. பேங்க்ல லட்சக்கணக்குல கடன் வாங்கிட்டு, வேலை கிடைக்காம நடுத்தெருவுல முழிச்சிட்டு இருக்கானுங்க!”
+
+The broker presents a glossy photograph showing the blue-shirt engineer.
+
+Minakshi sits in the back seat of a parked car. She looks at the photograph with polite disapproval and gently tosses it onto the dusty street.
+
+MAGICAL COMEDY EFFECT:
+Show an extreme close-up of the photograph lying on the ground. The blue-shirt engineer suddenly comes alive only inside the printed photograph. He scrunches his face and cries dramatically, with exaggerated cartoon tears streaming from his eyes. The printed photograph stays flat on the ground, and the animated character never escapes its boundaries.
+
+The father twists his horseshoe moustache and frowns.
+
+FATHER DIALOGUE:
+“அப்போ என்னதான் பண்றது?”
+
+CAMERA: Medium shot of the broker, close-up of the photograph, reaction shot of Minakshi, extreme close-up of the crying engineer inside the photograph, and close-up of the father's moustache.
+
+AUDIO: Tamil comedy BGM, street ambience, a playful magical sound effect and exaggerated crying sounds.
+
+CHARACTER CONSISTENCY RULES:
+Maintain the exact established identities of the father, broker and Minakshi. Keep the blue-shirt engineer visually consistent within the photograph. Do not change ages, faces, body proportions or clothes.
+
+NEGATIVE PROMPT:
+No face morphing, no face swapping, no aging, no de-aging, no character replacement, no changing moustache, no hairstyle changes, no costume changes, no extra characters, no duplicate faces, no distorted eyes, no extra fingers, no broken anatomy, no floating photograph, no photograph turning into a real person, no character escaping the photograph, no tears covering the entire scene, no incorrect lip-sync, no random text, no misspelled words, no flickering faces, no inconsistent car design, no sudden camera jumps, no blurry imagery, no low resolution.
+
+FINAL FRAME CONTINUITY:
+End with the father asking his question while the broker holds another photograph or gestures towards his pocket. Keep the car and Minakshi positioned consistently for Snippet 3.
+
+### SNIPPET 3 — GETTING INTO THE CAR (0:20–0:30)
+
+TITLE: GETTING INTO THE CAR — THE BROKER'S SUPER IDEA
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, sunny Madurai street, cinematic Tamil comedy, realistic vehicle movement.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: Same bulky 50-year-old Tamil man, thick horseshoe moustache, white sattai and white veshti.
+
+BROKER: Same very fat 45-year-old Tamil man, round face, black checked shirt and white veshti.
+
+MINAKSHI: Same adult 18-year-old Tamil woman with long dark hair, large expressive eyes and a bright silk half-saree.
+
+All three characters must match their reference images exactly. Do not change their faces, ages, body shapes, hairstyles or clothes.
+
+SCENE AND ACTION:
+
+The father stands beside his parked car on a busy Madurai street. He raises his broad hand and authoritatively gestures for people to make way, then turns confidently towards the driver's door.
+
+FATHER DIALOGUE:
+“உள்ள பேசுவோம். மீனாட்சி! கார்ல ஏறுமா, போய் நல்ல மாப்பிள்ளையா பார்ப்போம்.”
+
+Minakshi smiles shyly, lowers her eyes and gracefully enters the rear passenger seat. Her silk half-saree moves naturally.
+
+The fat broker hurries towards the front passenger door, grabs the handle and squeezes his large frame into the seat in an exaggerated but believable comic action.
+
+BROKER DIALOGUE:
+“என்கிட்ட ஒரு சூப்பர் ஐடியா இருக்குங்க ஐயா!”
+
+The father gets into the driver's seat. The broker closes his door and beams with excitement. The car remains parked until everyone is seated.
+
+CAMERA: Medium-wide street shot, smooth pan following the father, close-up of Minakshi's shy smile, comedic tracking shot of the broker entering the passenger seat, and final exterior shot of the three characters inside the car.
+
+AUDIO: Lighthearted Tamil comedy BGM, natural street ambience, car-door sounds and clear Tamil dialogue.
+
+CHARACTER CONSISTENCY RULES:
+Keep the father, broker and Minakshi identical to previous scenes. The car's exterior, interior colour and seating arrangement must remain consistent in all subsequent car scenes.
+
+NEGATIVE PROMPT:
+No morphing, no aging, no face replacement, no changes to facial structure, no changing body size, no changing moustache, no changing skin tone, no costume changes, no hairstyle changes, no duplicate people, no extra limbs, no deformed fingers, no broken anatomy, no body clipping through car doors, no floating characters, no distorted car doors, no disappearing seats, no sudden vehicle movement, no unsafe traffic, no random text, no flickering, no inconsistent vehicle design, no unnatural cloth movement, no blurry faces, no low resolution.
+
+FINAL FRAME CONTINUITY:
+Finish with the father at the steering wheel, the broker in the front passenger seat and Minakshi in the rear seat. Use the same car interior and seating positions in Snippet 4.
+
+### SNIPPET 4 — THE DIPLOMA GROOM PITCH (0:30–0:40)
+
+TITLE: THE DIPLOMA GROOM PITCH — A SMARTER CAREER STORY
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, realistic moving-car interior, natural daylight, Tamil comedy advertisement.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: Same bulky 50-year-old Tamil man, thick horseshoe moustache, white sattai and white veshti, driving.
+
+BROKER: Same fat 45-year-old Tamil man, black checked shirt and white veshti, sitting in the front passenger seat.
+
+MINAKSHI: Same adult 18-year-old Tamil woman, long dark hair, large expressive eyes and bright silk half-saree, seated in the back seat.
+
+SCENE AND ACTION:
+
+Continue directly from Snippet 3. The car moves smoothly along a Madurai road. The father looks ahead and drives safely. The broker leans slightly towards the centre console and gestures enthusiastically.
+
+BROKER DIALOGUE:
+“இந்தப் பெரிய படிப்பு படிச்ச பசங்களை இழுத்துகிட்டு... அதுக்குப் பதிலா டிப்ளமோ படிச்ச மாப்பிள்ளை ஒருத்தன் இருக்கான். எந்தக் கடனும் இல்லாம, சூப்பரா செட்டில் ஆயிட்டான்!”
+
+Minakshi quietly listens. Her curious eyes are visible in the rearview mirror.
+
+The father nods confidently while keeping his attention on the road.
+
+FATHER DIALOGUE:
+“ஏங்க இழுக்குறீங்க? டிப்ளமோ படிச்ச பையன்னா சீக்கிரமா படிப்பை முடிச்சிட்டு உடனே வேலைக்குப் போயிருவான். மொதல்ல அந்த மாப்பிள்ளையைக் காட்டுங்க!”
+
+CAMERA: Dashboard-facing two-shot of the father and broker, close-up of the broker's animated hand gestures, rearview-mirror shot of Minakshi, and close-up of the father's horseshoe moustache.
+
+AUDIO: Soft comedy BGM, realistic car ambience and clear Tamil lip-sync.
+
+CHARACTER CONSISTENCY RULES:
+Preserve exact faces, clothing, ages, hairstyles, body shapes and moustache. Maintain the same car interior, seat positions and daylight direction. Keep all movement physically realistic.
+
+NEGATIVE PROMPT:
+No face morphing, no face swapping, no aging, no de-aging, no costume changes, no moustache changes, no hairstyle changes, no character replacement, no duplicate characters, no deformed hands, no extra fingers, no broken anatomy, no steering wheel distortion, no inconsistent dashboard, no changing car colour, no rearview mirror distortion, no unsafe driving, no sudden braking, no driver looking away for too long, no floating objects, no random text, no incorrect Tamil lip-sync, no flickering, no blurry faces, no low resolution.
+
+FINAL FRAME CONTINUITY:
+End with the broker reaching towards his black shirt pocket, ready to reveal Aravind's photograph in Snippet 5.
+
+### SNIPPET 5 — THE RED-SHIRT GRADUATE AND THE WINK (0:40–0:50)
+
+TITLE: ARAVIND'S PHOTO — THE MAGICAL WINK
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, cinematic Tamil romantic comedy, bright natural daylight and magical realism.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: Same bulky Tamil father, thick horseshoe moustache, white sattai and white veshti.
+
+BROKER: Same fat Tamil broker, black checked shirt and white veshti.
+
+MINAKSHI: Same adult 18-year-old Tamil woman, large expressive eyes, long dark hair and bright silk half-saree.
+
+ARAVIND — RED-SHIRT POLYTECHNIC GRADUATE: A handsome adult Tamil man wearing a crisp, bright red shirt. Maintain his exact face, hairstyle, skin tone, body proportions and red shirt whenever he appears.
+
+SCENE AND ACTION:
+
+Continue directly from Snippet 4. The broker reaches into his black checked shirt pocket and pulls out a brand-new, brightly coloured photograph. He holds it proudly and turns it towards Minakshi.
+
+BROKER DIALOGUE:
+“இவன் பேரு அரவிந்த். நம்ம தருமபுரியில முனியம்மா பாலிடெக்னிக் காலேஜ்ல மூணு வருஷத்துக்கு முன்னாலதான் டிப்ளமோ முடிச்சாரு!”
+
+The photograph clearly shows Aravind wearing a bright red shirt.
+
+Minakshi leans forward from the rear seat to see the photograph.
+
+MAGICAL COMEDY MOMENT:
+The camera zooms into the photograph. Aravind's printed portrait comes alive while remaining completely contained within the photograph. He smiles confidently and gives Minakshi a charming wink. The photograph remains stationary in the broker's hand.
+
+Minakshi's eyes widen in delighted surprise. Her cheeks turn rosy red, and she smiles shyly.
+
+CAMERA: Close-up of the photograph being removed, over-the-shoulder shot of Minakshi, extreme close-up of Aravind's animated portrait, and reaction shot of Minakshi.
+
+AUDIO: Playful magical sparkle, brief romantic comedy musical cue, soft BGM and natural Tamil voices.
+
+CHARACTER CONSISTENCY RULES:
+Aravind must look exactly the same throughout every appearance. Preserve Minakshi's face, hairstyle and half-saree. Keep the father and broker unchanged. The wink must occur only within the printed photograph.
+
+NEGATIVE PROMPT:
+No morphing, no face swapping, no aging, no de-aging, no changing faces, no changing skin tone, no changing hairstyles, no changing clothes, no red shirt changing colour, no photograph becoming a live full-size person, no character escaping the photograph, no distorted photograph edges, no floating picture, no extra fingers, no deformed hands, no unnatural winking, no distorted eyes, no exaggerated body transformations, no duplicate faces, no flickering, no random text, no misspelled college name, no inconsistent car interior, no blurry faces, no low resolution.
+
+FINAL FRAME CONTINUITY:
+End with Minakshi blushing while the broker holds Aravind's photograph. Keep the photograph available for the next scene's salary discussion.
+
+### SNIPPET 6 — THE ₹60,000 SALARY SHOCK (0:50–1:00)
+
+TITLE: THE SALARY SHOCK — SIXTY THOUSAND RUPEES
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, cinematic Tamil comedy, realistic car interior, natural daylight.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: Same bulky 50-year-old Tamil father with a thick horseshoe moustache, white sattai and white veshti.
+
+BROKER: Same fat 45-year-old Tamil broker with a black checked shirt and white veshti.
+
+MINAKSHI: Same adult Tamil woman with a bright silk half-saree, seated in the rear seat.
+
+SCENE AND ACTION:
+
+Continue directly from Snippet 5. The broker puts Aravind's photograph away and proudly explains his career. He raises his eyebrows, spreads his hands and gestures excitedly to emphasise the salary.
+
+BROKER DIALOGUE:
+“சும்மா இல்லங்க ஐயா! இப்போ சிங்கப்பூர் எம்.என்.சி. கம்பெனில மாசம் அறுபதாயிரம் ரூபாய் அசால்ட்டா சம்பாதிக்கிறாருங்க ஐயா!”
+
+The father reacts with comic astonishment. His eyes widen, his shoulders straighten and his horseshoe moustache twitches with pride.
+
+FATHER DIALOGUE:
+“அடேங்கப்பா! மாசம் அறுபதாயிரமா?”
+
+The father laughs heartily while maintaining safe control of the vehicle. He does not slam on the brakes. The broker nods vigorously, pleased with his reaction.
+
+CAMERA: Close-up of the broker's expressive eyebrows, medium shot of the father's surprised reaction, close-up of the twitching moustache, then a two-shot of both men laughing.
+
+AUDIO: Comedic musical sting at the salary reveal, hearty laughter, realistic car ambience and clear Tamil dialogue.
+
+CHARACTER CONSISTENCY RULES:
+Maintain exact faces, age, body proportions, clothing, hairstyle and moustache. The same car interior must be preserved. The vehicle must remain under safe control.
+
+NEGATIVE PROMPT:
+No morphing, no aging, no face replacement, no moustache changes, no costume changes, no changing body proportions, no deformed hands, no extra fingers, no broken anatomy, no dangerous driving, no sudden braking, no car collision, no steering wheel distortion, no duplicate characters, no distorted facial expressions, no flickering, no random text, no incorrect salary figures, no blurry faces, no low resolution.
+
+FINAL FRAME CONTINUITY:
+End with the broker taking out his smartphone to send Aravind's details via WhatsApp in Snippet 7.
+
+### SNIPPET 7 — THE WHATSAPP FAMILY STATUS (1:00–1:10)
+
+TITLE: WHATSAPP MATCHMAKING — MINAKSHI'S SECRET ADMIRATION
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, realistic car interior, subtle romantic comedy and soft daylight.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: Same bulky Tamil father, white sattai, white veshti and thick horseshoe moustache.
+
+BROKER: Same fat Tamil broker, black checked shirt and white veshti.
+
+MINAKSHI: Same adult 18-year-old Tamil woman, large expressive eyes, long dark hair and bright silk half-saree.
+
+ARAVIND: Same handsome adult Tamil man wearing a bright red shirt, shown in the established photograph.
+
+SCENE AND ACTION:
+
+Continue directly from Snippet 6. The broker takes out his smartphone and opens a WhatsApp-style messaging screen. He taps the phone, preparing to send Aravind's photograph and family details.
+
+BROKER DIALOGUE:
+“அது மட்டுமில்ல, அவங்க அப்பா அம்மாவோட அங்கேயே சிங்கப்பூர்லயே செட்டில் ஆயிட்டாரு! உங்களுக்கு ஓகேன்னா சொல்லுங்க. உங்க தகவலையும் நம்ம பாப்பா போட்டோவையும் வாட்ஸ்அப்ல உடனே அவருக்கு அனுப்பிருவேன்!”
+
+Minakshi subtly peeks over the broker's shoulder. She sees Aravind's red-shirt photograph again and smiles shyly, her cheeks becoming slightly rosy.
+
+The broker remains focused on his phone and does not notice her admiring expression.
+
+Briefly show Aravind's confident portrait on the phone, visually contrasting with the earlier crying blue-shirt engineer photograph.
+
+CAMERA: Close-up of the smartphone, over-the-shoulder shot of Minakshi, close-up of her shy expression and a short insert of Aravind's photograph.
+
+AUDIO: Soft playful BGM, phone tapping, gentle message-sent notification and clear Tamil dialogue.
+
+CHARACTER CONSISTENCY RULES:
+Preserve all faces, ages, clothes, hairstyles and body proportions. Keep Aravind's photograph consistent with Snippet 5. Use a fictional messaging screen without exposing real private information.
+
+NEGATIVE PROMPT:
+No morphing, no aging, no face swapping, no costume changes, no changing phone model between shots, no distorted smartphone, no unreadable random text filling the screen, no personal data exposure, no duplicated fingers, no deformed hands, no unnatural peeking, no distorted eyes, no inconsistent photograph, no face flickering, no extra characters, no random logos, no incorrect Tamil lip-sync, no abrupt camera cuts, no blurry faces, no low resolution.
+
+FINAL FRAME CONTINUITY:
+End with the phone lowered slightly as the car approaches a tree-lined street. Preserve the seating positions and character identities for Snippet 8.
+
+### SNIPPET 8 — THE FATHER'S ABSOLUTE JOY (1:10–1:20)
+
+TITLE: THE FATHER'S ABSOLUTE JOY — THE PERFECT MATCH
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, cinematic Tamil comedy advertisement, bright natural daylight.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: Same bulky 50-year-old Tamil father, thick horseshoe moustache, white sattai and white veshti.
+
+BROKER: Same fat 45-year-old Tamil broker, black checked shirt and white veshti.
+
+MINAKSHI: Same adult Tamil woman, long dark hair, expressive eyes and bright silk half-saree, seated in the rear seat.
+
+SCENE AND ACTION:
+
+Continue directly from Snippet 7. The car travels along a peaceful, tree-lined street in Madurai, approaching a traditional Tamil home. Sunlight filters naturally through the windows.
+
+The father becomes overwhelmed with joy. He gives the steering wheel a brief, enthusiastic pat while maintaining safe control of the vehicle. He laughs heartily, and his horseshoe moustache moves naturally with his expression.
+
+FATHER DIALOGUE:
+“அட! நீ முனியம்மா பாலிடெக்னிக் காலேஜ்ல டிப்ளமோ படிச்ச பையன்னு சொன்னப்பவே எனக்குத் தெரிஞ்சு போச்சு! அங்க படிச்ச பையன்னா கண்டிப்பா ஒழுக்கமானவனாத்தான் இருப்பான். நம்ம குடும்பத்துக்கு ஏத்தவனாத்தான் இருப்பான்! தட்டுப்புட்டுன்னு பேசி கல்யாணத்தை முடிச்சிரலாம்!”
+
+The broker beams with pride, straightens his shoulders and laughs happily. Minakshi quietly listens from the rear seat with a shy smile.
+
+CAMERA: Exterior tracking shot of the car passing leafy streets, interior medium shot of the father laughing, close-up of the broker's delighted face and rearview-mirror shot of Minakshi.
+
+AUDIO: Cheerful Tamil comedy BGM, realistic car ambience, hearty laughter and natural Tamil lip-sync.
+
+CHARACTER CONSISTENCY RULES:
+Keep the same faces, ages, clothes, moustache, hairstyles and body proportions. Preserve the same car interior and exterior. Keep daylight direction consistent with previous scenes.
+
+NEGATIVE PROMPT:
+No morphing, no aging, no face swapping, no costume changes, no changing moustache, no changing body shape, no unsafe driving, no sudden braking, no collisions, no distorted steering wheel, no changing car interior, no duplicate people, no deformed hands, no extra fingers, no broken anatomy, no unnatural laughter, no flickering faces, no random text, no location teleportation, no inconsistent lighting, no blurry faces, no low resolution.
+
+FINAL FRAME CONTINUITY:
+End with the car gently stopping outside the traditional Madurai house. The father turns towards Minakshi, preparing to ask her opinion in Snippet 9.
+
+### SNIPPET 9 — MINAKSHI'S SHY BACKWARD RUN (1:20–1:30)
+
+TITLE: RAJATHI NA RAJATHI THAN — THE SHY BACKWARD RUN
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, colourful Tamil romantic comedy, natural sunlight, traditional Madurai home.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: Same bulky 50-year-old Tamil father, thick horseshoe moustache, white sattai and white veshti.
+
+BROKER: Same fat 45-year-old Tamil broker, black checked shirt and white veshti.
+
+MINAKSHI: Same adult 18-year-old Tamil woman, long dark hair, expressive eyes and bright silk half-saree. Preserve her exact face and costume.
+
+SCENE AND ACTION:
+
+Continue directly from Snippet 8. The car is safely parked in front of a grand traditional Madurai house.
+
+The father turns slightly in his seat and looks at his daughter affectionately.
+
+FATHER DIALOGUE:
+“என்னம்மா மீனாட்சி, மாப்பிள்ளை ஓகேவா?”
+
+Minakshi freezes for a moment. Her cheeks turn deep crimson, and she lowers her eyes with a delighted, shy smile.
+
+She opens the rear door, steps out safely and begins moving backwards playfully towards the house, giggling like a shy child. Her silk half-saree swirls naturally around her ankles. Her backward movement is smooth, controlled and physically believable. She does not collide with anything or fall.
+
+The broker watches her reaction and bursts into laughter.
+
+BROKER DIALOGUE:
+“ராஜாத்தி னா ராஜாத்தி தான்!”
+
+He laughs admiringly as Minakshi retreats towards the house, briefly glancing back with a bashful smile.
+
+CAMERA: Medium shot of the father asking the question, close-up of Minakshi blushing, full-body shot of her backward movement, then reaction shot of the laughing broker.
+
+AUDIO: Playful romantic comedy BGM, light giggling, hearty laughter and clear Tamil lip-sync.
+
+CHARACTER CONSISTENCY RULES:
+Preserve exact faces, ages, hairstyles, body proportions and costumes. Keep the parked car and house consistent. Minakshi's face must not change during the backward movement.
+
+NEGATIVE PROMPT:
+No morphing, no aging, no face swapping, no costume changes, no changing hairstyle, no changing skin tone, no body distortion, no extra limbs, no deformed hands, no broken anatomy, no unnatural backward movement, no falling, no collisions, no floating feet, no clothing clipping, no distorted face, no duplicate characters, no flickering, no random text, no sudden camera teleportation, no blurry faces, no low resolution.
+
+FINAL FRAME CONTINUITY:
+End with Minakshi entering the house in the background while the father and broker remain beside the parked car, ready for the final advertisement shot.
+
+### SNIPPET 10 — MUNIYAMA POLYTECHNIC COLLEGE FREEZE FRAME (1:30–1:40)
+
+TITLE: MUNIYAMA POLYTECHNIC COLLEGE — FINAL COMEDY ADVERTISEMENT
+
+DURATION: Exactly 10 seconds. 4K UHD, 16:9 widescreen, professional Tamil Nadu polytechnic college advertisement, vibrant colours, cinematic freeze frame, clear typography.
+
+CHARACTER IDENTITY LOCK:
+
+FATHER: Same bulky 50-year-old Tamil father with thick horseshoe moustache, pristine white sattai and white veshti.
+
+BROKER: Same fat 45-year-old Tamil broker, round face, pitch-black checked shirt and white veshti.
+
+MINAKSHI: Same adult Tamil woman in her bright silk half-saree, seen entering the traditional home in the background.
+
+SCENE AND ACTION:
+
+Continue directly from Snippet 9. The father and broker stand beside the parked car in front of the traditional Madurai home. Minakshi is disappearing happily through the house entrance in the background.
+
+The broker grabs his stomach and bursts into uproarious laughter. He adjusts the collar of his black checked shirt while his white veshti moves naturally.
+
+BROKER DIALOGUE:
+“பாத்தீங்களா ஐயா! முனியம்மா பாலிடெக்னிக் காலேஜ்ல படிச்சாருன்னு சொன்னதுமே, நம்ம பாப்பா எப்படி டப்புன்னு வெக்கப்பட்டு ஓகேன்னு சொல்லிட்டா!”
+
+The father joins in with a booming laugh and proudly twists his thick horseshoe moustache. Both men laugh together beside the car.
+
+ENDING FREEZE FRAME:
+At the peak of their laughter, freeze the entire scene into a vibrant, polished cinematic still. Apply a subtle cinematic zoom and a celebratory visual effect.
+
+DISPLAY THIS EXACT TEXT — DO NOT CHANGE THE SPELLING OR PHONE NUMBER:
+
+MUNIYAMA POLYTECHNIC COLLEGE
+
+Admissions & Inquiries: 8220797709
+
+Typography requirements: Large, bold, crisp, high-contrast lettering, professionally aligned, visually balanced and easy to read. Keep both laughing men visible. Do not cover their faces with text. Keep the phone number exactly as provided.
+
+AUDIO: Final cheerful Tamil comedy musical flourish, hearty laughter fading naturally and a clean advertisement ending.
+
+CHARACTER CONSISTENCY RULES:
+Maintain the exact same character identities, faces, ages, body proportions, moustache, hairstyles and clothing. Preserve the same parked car and house. No morphing or aging. Keep the freeze frame stable.
+
+NEGATIVE PROMPT:
+No face morphing, no face swapping, no aging, no de-aging, no changes to facial features, no changing moustache, no hairstyle changes, no costume changes, no duplicate characters, no extra limbs, no deformed hands, no distorted bodies, no flickering, no random text, no misspelled college name, no incorrect phone number, no additional phone numbers, no random logos, no illegible typography, no text covering faces, no inconsistent background, no sudden location change, no blurry faces, no low resolution, no distorted freeze frame.
+
+FINAL END FRAME:
+Hold the completed freeze frame with both men laughing and the college name and phone number clearly visible. End cleanly without introducing any new characters or additional text.
+
+### Universal workflow for maximum character consistency
+
+* Use the same reference image for the father, broker, Minakshi and Aravind whenever those characters appear.
+
+* Keep the same seed and character-reference settings if your video generator supports them.
+
+* Generate each scene separately at exactly 10 seconds, then join the clips in timestamp order.
+
+* Use the previous clip's final frame as the next clip's starting reference where supported.
+
+* Add the final college name and phone number in a video editor if the generator cannot reproduce text accurately.
+
+* If a tool supports a separate negative-prompt field, copy the negative prompt from the corresponding snippet into that field. Otherwise, leave it at the end of the main prompt.
+
+Important: Negative prompts reduce unwanted variations but cannot guarantee perfect identity preservation. Reference images, consistent settings and careful editing give the best results.
